@@ -1,3 +1,7 @@
+
+# Demostración
+![Cotizador de Criptomonedas](img/cotizador-criptomonedas.png "Demostración del cotizador de Criptomonedas")
+
 # Correr el proyecto en Desarrollo 
 
 * Ejecutar
@@ -14,6 +18,3 @@
 * React-Router-Dom
 * Zod
 * Zustand
-
-# Demostración
-![Cotizador de Criptomonedas](img/cotizador-criptomonedas.png "Demostración del cotizador de Criptomonedas")
