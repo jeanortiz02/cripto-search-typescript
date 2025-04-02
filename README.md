@@ -16,3 +16,4 @@
 * Zustand
 
 # Demostración
+![Cotizador de Criptomonedas](img/cotizador-criptomonedas.png "Demostración del cotizador de Criptomonedas")
